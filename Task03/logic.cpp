@@ -13,7 +13,7 @@
 #include "logic.h"
 
 int count_digits(long long number) {
-	if (number >= 0 && number <= 9) {
+	if (number >= -9 && number <= 9) {
 		return 1;
 	}
 

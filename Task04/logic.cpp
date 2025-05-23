@@ -1,4 +1,4 @@
-﻿//	[The Tribonacci Number]
+﻿ //	[The Tribonacci Number]
 //	Число трибоначчи 
 // 
 //	Необходимо разработать рекурсивную функцию, которая находит 
@@ -18,5 +18,6 @@
 #include "logic.h"
 
 long long get_tribonacci_number(int index) {
+
 	return -2;
 }

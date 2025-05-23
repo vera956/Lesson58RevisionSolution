@@ -21,5 +21,5 @@ bool is_power_of_four(int number) {
 		return true;
 	}
 
-	return number % 4 == 0 ? is_power_of_four(number / 4) : false;
+	return number % 4 == 0 ? is_power_of_four(number / 4) : false; 
 }
